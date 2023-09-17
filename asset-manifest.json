@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://ayush-sajwan.github.io/calculatorReact/static/css/main.79b00461.css",
+    "main.js": "https://ayush-sajwan.github.io/calculatorReact/static/js/main.36c127d7.js",
+    "index.html": "https://ayush-sajwan.github.io/calculatorReact/index.html",
+    "main.79b00461.css.map": "https://ayush-sajwan.github.io/calculatorReact/static/css/main.79b00461.css.map",
+    "main.36c127d7.js.map": "https://ayush-sajwan.github.io/calculatorReact/static/js/main.36c127d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b00461.css",
+    "static/js/main.36c127d7.js"
+  ]
+}
